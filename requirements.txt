@@ -1,0 +1,18 @@
+# Para instalar una versión específica
+#package==version
+
+# Para instalar una versión igual o superior
+#package>=version
+
+# Para instalar la versión más reciente
+#package
+
+celery >= 4.4
+daphne >= 2.4
+Django >= 3.0
+#hypercorn >= 0.9
+prettytable >= 0.7.2
+Jinja2 >= 2.10
+sphinx  >= 2.2
+#uvicorn >= 0.11
+zeep >= 3.3
